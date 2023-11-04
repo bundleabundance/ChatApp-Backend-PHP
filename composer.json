@@ -1,0 +1,15 @@
+{
+    "require": {
+        "slim/slim": "^4.0",
+        "nyholm/psr7": "^1.8",
+        "slim/psr7": "^1.6"
+    },
+    "require-dev": {
+        "phpunit/phpunit": "^10.4"
+    },
+    "autoload": {
+        "psr-4": {
+            "Slim\\": "/Users/alper/Desktop/proj/php_chatapp"
+        }
+    }
+}
